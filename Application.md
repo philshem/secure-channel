@@ -106,7 +106,7 @@ Being open source, we invite and expect users and researchers to review and audi
 (600 max characters)
 
 As supplementary information, we include:
-(1) visual platform mockups,
+(1) [visual platform mockups](https://github.com/philshem/secure-channel/blob/master/mockup.pdf),
 (2) team CVs *(redacted)*,
 (3) summary of survey results *(redacted)*
 (4) citations and full text for research findings that demonstrate "social media driving political polarization and the prevalence of disinformation, both of which are also accentuating each other and simultaneously potentially undermining democratic quality—that has led to so much concern about the potential impact of social media on democracy", and
