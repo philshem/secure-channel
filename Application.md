@@ -10,7 +10,7 @@ Secure CHannel: Fight Misinformation. Strengthen Public Participation.
 
 The public sector uses social media to share information. Misinformation creates confusion and decreases public participation. We will build a decentralized, transparent and open-sourced social-media certification platform to prevent misinformation.
 
-### Which societal challenge does your project address?
+### Which societal challenge does your project address?
 (600 max characters)
 
 Here’s a scenario: A small Swiss town uses Twitter - but barely. They are unaware that the team-password has been leaked in a data breach. The account is compromised. Fraudulent tweets, even as a joke, are retweeted by a blogger with many followers. Despite being easily disproved, research shows that (1) many people will never follow-up, and (2) misinformation causes us to doubt any political stance, thus becoming "unpolitical". Without an open repository of content with secure authentication and transparent authorization, we will continue to struggle with political disengagement.
@@ -106,8 +106,13 @@ Being open source, we invite and expect users and researchers to review and audi
 (600 max characters)
 
 As supplementary information, we include:
+
 (1) [visual platform mockups](https://github.com/philshem/secure-channel/blob/master/mockup.pdf),
-(2) team CVs *(redacted)*,
-(3) summary of survey results *(redacted)*
+
+(2) *(redacted)* team CVs,
+
+(3) *(redacted)* summary of survey results,
+
 (4) citations and full text for research findings that demonstrate ([PDF, ~9 MB](https://github.com/philshem/secure-channel/blob/master/references_export.pdf)) "social media driving political polarization and the prevalence of disinformation, both of which are also accentuating each other and simultaneously potentially undermining democratic quality—that has led to so much concern about the potential impact of social media on democracy", and
-(6) [examples of where account hacking or spoofing has resulted in economic or reputational damage](https://github.com/philshem/secure-channel/blob/master/social_media_risks.md).
+
+(5) [examples of where account hacking or spoofing has resulted in economic or reputational damage](https://github.com/philshem/secure-channel/blob/master/social_media_risks.md).
