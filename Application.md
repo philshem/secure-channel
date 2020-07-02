@@ -109,5 +109,5 @@ As supplementary information, we include:
 (1) [visual platform mockups](https://github.com/philshem/secure-channel/blob/master/mockup.pdf),
 (2) team CVs *(redacted)*,
 (3) summary of survey results *(redacted)*
-(4) citations and full text for research findings that demonstrate "social media driving political polarization and the prevalence of disinformation, both of which are also accentuating each other and simultaneously potentially undermining democratic quality—that has led to so much concern about the potential impact of social media on democracy", and
+(4) citations and full text for research findings that demonstrate ([PDF, ~9 MB](https://github.com/philshem/secure-channel/blob/master/references_export.pdf)) "social media driving political polarization and the prevalence of disinformation, both of which are also accentuating each other and simultaneously potentially undermining democratic quality—that has led to so much concern about the potential impact of social media on democracy", and
 (6) [examples of where account hacking or spoofing has resulted in economic or reputational damage](https://github.com/philshem/secure-channel/blob/master/social_media_risks.md).
